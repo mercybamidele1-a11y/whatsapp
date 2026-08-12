@@ -166,10 +166,10 @@ span{
 .hero{
     padding: 80px;
     background-color: #FCF5EB;
-    background-image: url(assets 656004425_1008747588378447_4681271289133427595_n.webp);
+    background-image: url(assets/656004425_1008747588378447_4681271289133427595_n.webp);
     background-repeat: no-repeat;
     background-size: cover;
-    margin-top: 10px;
+    margin-top: 10px; 
     border-radius: 50px;
     height: 600px;
     margin-bottom: 100px;
@@ -1261,7 +1261,7 @@ select:hover{
     .hero {
         .hero {
         background-color: #FCF5EB;
-        background-image: url(assets 656004425_1008747588378447_4681271289133427595_n.webp);
+        background-image: url(assets/656004425_1008747588378447_4681271289133427595_n.webp);
         background-repeat: no-repeat;
         background-size: cover;
         border-radius: 50px;
